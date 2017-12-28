@@ -273,5 +273,5 @@ node ./examples/e1.js
 
 ## Bugs or requests
 I am still working on this project. So, please, report me any kind of bug or requests about new features.
-You can do it on [GitHub Issues](https://github.com/giacomoratta/round-logger/issues) or via email.
+You can do it on [GitHub Issues](https://github.com/giacomoratta/ki-map/issues) or via email.
 I will try to solve each issues in a reasonable time.

@@ -1,7 +1,7 @@
 {
   "name": "ki-map",
-  "version": "1.0.1",
-  "description": "Pure javascript object that simulates the native 'Map' object with indexing features and others useful methods.",
+  "version": "1.0.2",
+  "description": "\"Keyed and Indexed Map\", a pure javascript object that simulates the native 'Map' object with indexing features and others useful methods.",
   "main": "index.js",
   "scripts": {
     "test": "mocha test/tests1.js"
