@@ -1,0 +1,55 @@
+{
+  "name": "ki-map",
+  "version": "1.0.0",
+  "description": "Pure javascript object that simulates the native 'Map' object with indexing features and others useful methods.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/tests1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giacomoratta/ki-map.git"
+  },
+  "author": "Giacomo Ratta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/giacomoratta/ki-map/issues"
+  },
+  "homepage": "https://github.com/giacomoratta/ki-map#readme",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  },
+  "engines": {
+    "node": ">= 5.0.0"
+  },
+  "keywords": [
+    "map",
+    "index",
+    "indexing",
+    "array",
+    "keys",
+    "key",
+    "associative",
+    "data",
+    "structure",
+    "data-structure",
+    "indexed",
+    "linked",
+    "list",
+    "map",
+    "array",
+    "collection",
+    "doubly-linked",
+    "linkedlist",
+    "linkedmap",
+    "sorted",
+    "ordered",
+    "vector",
+    "label",
+    "labeling",
+    "es6",
+    "class",
+    "pure",
+    "javascript"
+  ]
+}
