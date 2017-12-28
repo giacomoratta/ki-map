@@ -1,6 +1,6 @@
 # kiMap
 
-[![NPM](https://nodei.co/npm/kiMap.png?downloads=true&downloadRank=true)](https://nodei.co/npm/kiMap/)
+[![NPM](https://nodei.co/npm/ki-map.png?downloads=true&downloadRank=true)](https://nodei.co/npm/ki-map/)
 
 Pure javascript object that simulates the native 'Map' object with indexing features and others useful methods.
 
@@ -35,7 +35,7 @@ npm install --save kiMap
 
 #### Create the kiMap object
 ```javascript
-let kiMap = require('kiMap');
+let kiMap = require('ki-map');
 let map = new kiMap();
 ```
 
