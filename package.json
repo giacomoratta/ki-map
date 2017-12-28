@@ -1,6 +1,6 @@
 {
   "name": "ki-map",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pure javascript object that simulates the native 'Map' object with indexing features and others useful methods.",
   "main": "index.js",
   "scripts": {
